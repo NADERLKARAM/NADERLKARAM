@@ -6,6 +6,6 @@
 ###  Frameworks and Libraries
 
 
-### :hammer_and_wrench: Languages and Tools :__
+### :hammer_and_wrench: Programming Languages :__
 
 
