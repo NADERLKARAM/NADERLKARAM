@@ -9,7 +9,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nader-kamal-4421b921a/)
 
-###  Frameworks and Libraries
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -23,6 +23,5 @@
 </div>
 
 
-### :hammer_and_wrench: Programming Languages :__
 
 
