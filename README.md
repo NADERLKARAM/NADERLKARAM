@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADERLKARAM&theme=gruvbox&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NADERLKARAM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NADERLKARAM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :woman_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
