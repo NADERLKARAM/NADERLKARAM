@@ -4,6 +4,6 @@
 
 
 ###  Frameworks and Libraries
-![Node JS Icon]
+![](*Image URL goes here*)
 
 
