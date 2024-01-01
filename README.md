@@ -4,6 +4,8 @@
 
 
 ###  Frameworks and Libraries
-* ![Node JS Icon]
+
+
+### :hammer_and_wrench: Languages and Tools :__
 
 
