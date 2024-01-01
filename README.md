@@ -25,7 +25,7 @@
 ### Databases and ORM
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git" **alt="Git" width="70" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Git" **alt="Git" width="70" height="50"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Git" **alt="Git" width="70" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="70"/>&nbsp;
   
   </div>
