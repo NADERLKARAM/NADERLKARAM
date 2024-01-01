@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="50"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Git" **alt="Git" width="40" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Git" **alt="Git" width="100" height="40"/>
 </div>
 
 
